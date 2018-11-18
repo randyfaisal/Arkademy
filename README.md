@@ -1,0 +1,2 @@
+# Arkademy
+Scraping Detik
